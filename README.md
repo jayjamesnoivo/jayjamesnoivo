@@ -26,31 +26,6 @@ Im also a huge fan of **Marvel**. I love watching movies & series & even reading
 I enjoy learning new tools, collaborating with teams, and improving my development and leadership skills.
 
 
-
----
-
-## 🛠️ Technologies & Tools
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express" />
-</p>
-
-### 🐍 Programming & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### 🔧 Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion" />
-</p>
-
 ---
 
 ## 🎯 Goals for 2026
