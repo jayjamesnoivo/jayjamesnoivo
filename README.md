@@ -10,7 +10,11 @@ I am a software development student at the College de Maisonneuve.
 Before transitioning into software development, I worked for 7 years (2017–2024) at **Intact Insurance** as an **Automobile Damage Estimator**.  
 This experience strengthened my analytical skills, attention to detail, customer communication, and ability to work under pressure.
 
-Outside of tech, I’m a huge **sports enthusiast** — especially **football, hockey, basketball, and american football**.
+I enjoy learning new tools, collaborating with teams, and improving my development and leadership skills.
+
+## 🏅 Sports passions
+
+Outside of tech, I’m a huge **sports enthusiast** — especially **football, hockey, basketball, and american football**. Every day, I follow every sports news & games. I follow alot of sports pages, insiders, sports rumors, etc.
 
 My favorite teams are :
 - **Sporting CP** (Football)
@@ -19,12 +23,38 @@ My favorite teams are :
 - **Toronto Raptors** (Basketball)
 - **Montreal Canadiens** (Hockey)
 
-I also enjoy **video games**, which fuel my creativity and problem-solving mindset. I play games on my PS5 like **GTA**, **EA FC**, **Madden**, **NHL**, **NBA 2K**, **Dead Island**, **Killing Floor**, **Marvel games**, **The Last Of Us**, **Hell Divers**, **Call of duty**.
+## 🌐 Gaming
 
-Im also a huge fan of **Marvel**. I love watching movies & series & even reading comics.
+I also enjoy **video games**, which fuel my creativity and problem-solving mindset.
 
-I enjoy learning new tools, collaborating with teams, and improving my development and leadership skills.
+I play games on my PS5 like : 
+- **GTA**
+- **EA FC**
+- **Madden**
+- **NHL**
+- **NBA 2K**
+- **Dead Island**
+- **Killing Floor**
+- **Marvel games**
+- **The Last Of Us**
+- **Hell Divers**
+- **Call of duty**
+- **Space Marine II**
 
+Connect with me on :
+
+<p align="left">
+  <a href="https://profile.playstation.com/MrSchnitzzz">
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation"/>
+  </a>
+  <a href="https://discordapp.com/users/1200305263740190910">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+## 🎬 Other passions
+
+I'm also a huge fan of <img src="https://img.icons8.com/color/48/marvel.png" width="25"/>. I love watching movies & series & even reading comics. I spend all my day's watchings on Youtube some easter eggs about all the movies & series of **Marvel**. If you want some great **Marvel** updates, rumors, easter egss, theories, etc go follow up **New Rockstars**. 
 
 ---
 
