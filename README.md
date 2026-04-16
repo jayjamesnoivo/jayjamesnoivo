@@ -17,11 +17,12 @@ I enjoy learning new tools, collaborating with teams, and improving my developme
 Outside of tech, I’m a huge **sports enthusiast** — especially **football, hockey, basketball, and american football**. Every day, I follow every sports news & games. I follow alot of sports pages, insiders, sports rumors, etc.
 
 My favorite teams are :
-- **Sporting CP** (Football)
-- **Portugal FC** (Football)
-- **New England Patriots** (American Football)
-- **Toronto Raptors** (Basketball)
-- **Montreal Canadiens** (Hockey)
+
+- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sporting_Clube_de_Portugal.svg" width="20"> **Sporting CP** (Football)
+- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Portugal_National_Team_logo.png" width="20"> **Portugal FC** (Football)
+- <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg" width="20"> **New England Patriots** (American Football)
+- <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg" width="20"> **Toronto Raptors** (Basketball)
+- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Montreal_Canadiens.svg" width="20"> **Montreal Canadiens** (Hockey)
 
 ## 🌐 Gaming
 
