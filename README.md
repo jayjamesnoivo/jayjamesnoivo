@@ -55,7 +55,7 @@ Connect with me on :
 
 ## 🎬 Other passions
 
-I'm also a huge fan of <img src="https://img.icons8.com/color/48/marvel.png" width="25"/>. I love watching movies & series & even reading comics. I spend all my day's watchings on Youtube some easter eggs about all the movies & series of **Marvel**. If you want some great **Marvel** updates, rumors, easter egss, theories, etc go follow up **New Rockstars**. 
+I'm also a huge fan of <img src="https://img.icons8.com/color/48/marvel.png" width="25"/>. I love watching movies & series & even reading comics. I spend all my day's watchings on Youtube some easter eggs about all the movies & series of **Marvel**. If you want some great **Marvel** updates, rumors, easter egg's, theories, etc go follow up **New Rockstars**. 
 
 ---
 
