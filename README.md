@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 
-I am a software development student at the College de Maisonneuve & currently working for the city of Montreal. 
+I am a software development student at the College de Maisonneuve & currently working for the **city of Montreal**. 
 
-Before transitioning into software development, I worked for 7 years (2017–2024) at **Intact Insurance** as an **Automobile Damage Estimator**.  
+Before transitioning into software development, I worked for 7 years (2017–2024) at **Intact Insurance** as an **automobile damage estimator** for 2 years, **customer service agent** for 1 year & **vehicule attendant** for 4 years.  
 This experience strengthened my analytical skills, attention to detail, customer communication, and ability to work under pressure.
 
 I enjoy learning new tools, collaborating with teams, and improving my development and leadership skills.
