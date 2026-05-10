@@ -12,6 +12,8 @@ This experience strengthened my analytical skills, attention to detail, customer
 
 I enjoy learning new tools, collaborating with teams, and improving my development and leadership skills.
 
+---
+
 ## 🏅 Sports passions
 
 Outside of tech, I’m a huge **sports enthusiast** — especially **football, hockey, basketball, and american football**. Every day, I follow every sports news & games. I follow alot of sports pages, insiders, sports rumors, etc.
@@ -23,6 +25,18 @@ My favorite teams are :
 - <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg" width="20"> **New England Patriots** (American Football)
 - <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg" width="20"> **Toronto Raptors** (Basketball)
 - <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Montreal_Canadiens.svg" width="20"> **Montreal Canadiens** (Hockey)
+
+I'm currently playing for the **RUSH FC** as a forward in the **LSAQ (Ligue de Soccer Amateur du Québec)**. Before doing my debut in the **LSAQ** , I played football since I'm 10 years old. I played for my high school team, the **Patriotes de l'école secondaire Pointe-Aux-Trembles** from 2012 to 2015. I also played for **St-Léonard FC (currently AS St-Léonard)** from 2009 to 2011. I played futsal in Portugal for **Parada FC** for a summer tournament of **Viseu 2014**.
+
+I also play Dek Hockey as a offensive-defender in **Dek Anjou & Dek Bouch** with my friends every 4 seasons per year. I started since summer 2020 & I did alot of leagues & tournaments every single year.
+
+Here's my achievements in my career :
+
+- **3x** league champion at **Dek Anjou**
+- **2x** draft tournament champion at **Dek Pourki & Dek Anjou**
+- **1x** **Unité Spécial** champion
+
+---
 
 ## 🌐 Gaming
 
@@ -52,6 +66,8 @@ Connect with me on :
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
+
+---
 
 ## 🎬 Other passions
 
