@@ -26,11 +26,18 @@ My favorite teams are :
 - <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg" width="20"> **Toronto Raptors** (Basketball)
 - <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Montreal_Canadiens.svg" width="20"> **Montreal Canadiens** (Hockey)
 
-I'm currently playing for the **RUSH FC** as a forward in the **LSAQ (Ligue de Soccer Amateur du Québec)**. Before doing my debut in the **LSAQ** , I played football since I'm 10 years old. I played for my high school team, the **Patriotes de l'école secondaire Pointe-Aux-Trembles** from 2012 to 2015. I also played for **St-Léonard FC (currently AS St-Léonard)** from 2009 to 2011. I played futsal in Portugal for **Parada FC** for a summer tournament of **Viseu 2014**.
+I'm currently playing for the **RUSH FC** as a forward in the **LSAQ (Ligue de Soccer Amateur du Québec)**. Before doing my debut in the **LSAQ**.
+
+Here's a list of my football career journey :
+
+- **St-Léonard FC (currently AS St-Léonard)** *2009 to 2011*.
+- **Patriotes de l'école secondaire Pointe-Aux-trembles** *2012 to 2015*.
+- **Parada FC** *summer Futsal tournament Viseu,Portugal 2014*.
+- **Laval Cobras** in the **QCSL** *2018 & 2019*.
 
 I also play Dek Hockey as a offensive-defender in **Dek Anjou & Dek Bouch** with my friends every 4 seasons per year. I started since summer 2020 & I did alot of leagues & tournaments every single year.
 
-Here's my achievements in my career :
+Here's my achievements in my Dek Hockey career :
 
 - **3x** league champion at **Dek Anjou**
 - **2x** draft tournament champion at **Dek Pourki & Dek Anjou**
