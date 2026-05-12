@@ -26,7 +26,7 @@ My favorite teams are :
 - <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg" width="20"> **Toronto Raptors** (Basketball)
 - <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Montreal_Canadiens.svg" width="20"> **Montreal Canadiens** (Hockey)
 
-I'm currently playing for the **RUSH FC** as a forward in the **LSAQ (Ligue de Soccer Amateur du Québec)**. Before doing my debut in the **LSAQ**.
+I'm currently playing for the **RUSH FC** as a forward in the **LSAQ (Ligue de Soccer Amateur du Québec)**.
 
 Here's a list of my football career journey :
 
