@@ -21,12 +21,11 @@ Outside of tech, I’m a huge **sports enthusiast** — especially **football, h
 My favorite teams are :
 
 - <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sporting_Clube_de_Portugal.svg" width="20"> **Sporting CP** (Football)
-- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Portugal_National_Team_logo.png" width="20"> **Portugal FC** (Football)
 - <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/New_England_Patriots_logo.svg" width="20"> **New England Patriots** (American Football)
 - <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg" width="20"> **Toronto Raptors** (Basketball)
 - <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Montreal_Canadiens.svg" width="20"> **Montreal Canadiens** (Hockey)
 
-I'm currently playing for the **RUSH FC** as a forward in the **LSAQ (Ligue de Soccer Amateur du Québec)**.
+I'm currently captain & owner for the **Sporting MTL FC** as a forward in the **LSAQ (Ligue de Soccer Amateur du Québec)**.
 
 Here's a list of my football career journey :
 
@@ -34,6 +33,7 @@ Here's a list of my football career journey :
 - **Patriotes de l'école secondaire Pointe-Aux-trembles** *2012 to 2015*.
 - **Parada FC** *summer Futsal tournament Viseu,Portugal 2014*.
 - **Laval Cobras** in the **QCSL** *2018 & 2019*.
+- **Rush FC** in the **LSAQ** *2026*.
 
 I also play Dek Hockey as a offensive-defender in **Dek Anjou & Dek Bouch** with my friends every 4 seasons per year. I started since summer 2020 & I did alot of leagues & tournaments every single year.
 
