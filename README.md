@@ -27,7 +27,7 @@ My favorite teams are :
 
 I'm currently captain & owner for the **MONTREALISTA FC** in the **LSAQ (Ligue de Soccer Amateur du Québec)**.
 
-Here's a list of my football career journey :
+Here's a list of my football career journey ⚽️:
 
 - **St-Léonard FC (currently AS St-Léonard)** *2009 to 2011*.
 - **Patriotes de l'école secondaire Pointe-Aux-trembles** *2012 to 2015*.
@@ -37,7 +37,7 @@ Here's a list of my football career journey :
 
 I also play Dek Hockey as a offensive-defender in **Dek Anjou & Dek Bouch** with my friends every 4 seasons per year. I started since summer 2020 & I did alot of leagues & tournaments every single year.
 
-Here's my achievements in my Dek Hockey career :
+Here's my achievements in my Dek Hockey career 🏒🏆:
 
 - **3x** league champion at **Dek Anjou**
 - **2x** draft tournament champion at **Dek Pourki & Dek Anjou**
