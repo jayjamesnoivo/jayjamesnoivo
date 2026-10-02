@@ -25,7 +25,7 @@ My favorite teams are :
 - <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg" width="20"> **Toronto Raptors** (Basketball)
 - <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Montreal_Canadiens.svg" width="20"> **Montreal Canadiens** (Hockey)
 
-I'm currently captain & owner for the **MONTREALISTA FC** in the **LSAQ (Ligue de Soccer Amateur du Québec)**.
+I'm currently captain & owner for the **Montrealista FC** in the **LSAQ (Ligue de Soccer Amateur du Québec)**.
 
 Here's a list of my football career journey ⚽️:
 
