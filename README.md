@@ -93,10 +93,13 @@ Below is a detailed overview of my performances throughout my football journey, 
 - **G/A:** Total goal contributions (Goals + Assists).
 - **TBD:** To Be Determined.
 
+---
+
+## 🏒🏆 Dek Hockey achievements
 
 I also play Dek Hockey as a offensive-defender in **Dek Anjou & Dek Bouch** with my friends every 4 seasons per year. I started since summer 2020 & I did alot of leagues & tournaments every single year.
 
-Here's my achievements in my Dek Hockey career 🏒🏆:
+Here's my achievements in my Dek Hockey career:
 
 - **3x** league champion at **Dek Anjou**
 - **2x** draft tournament champion at **Dek Pourki & Dek Anjou**
