@@ -25,16 +25,74 @@ My favorite teams are :
 - <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg" width="20"> **Toronto Raptors** (Basketball)
 - <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Montreal_Canadiens.svg" width="20"> **Montreal Canadiens** (Hockey)
 
+---
+
+## ⚽ Football Career Statistics
+
+Welcome to my football career statistics!
+
 I'm currently captain & owner for the **Montrealista FC** in the **LSAQ (Ligue de Soccer Amateur du Québec)**.
 
-Here's a list of my football career journey ⚽️:
+Below is a detailed overview of my performances throughout my football journey, including appearances, goals, assists, and goal contributions for each club.
 
-- **St-Léonard FC (currently AS St-Léonard)** *2009 to 2011*.
-- **Patriotes de l'école secondaire Pointe-Aux-trembles** *2012 to 2015*.
-- **Parada FC** *summer Futsal tournament Viseu,Portugal 2014*.
-- **Laval Cobras** in the **QCSL** *2018 & 2019*.
-- **Rush FC** in the **LSAQ** *2026*.
-- **Montrealista FC** in the **LSAQ** *2027 to today*.
+### St-Léonard FC (2009–2011)
+
+| Season | Appearances | Goals ⚽ | Assists 🎯 | G/A 🔥 |
+|:------:|:-----------:|:--------:|:----------:|:------:|
+| 2009 | 9 | 11 | 5 | 16 |
+| 2010 | 8 | 11 | 3 | 14 |
+| 2011 | 9 | 8 | 5 | 13 |
+| **TOTAL** | **26** | **30** | **13** | **43** |
+
+### Patriotes de l'École Secondaire Pointe-aux-Trembles (2012–2015)
+
+**Level:** High school
+
+| Season | Appearances | Goals ⚽ | Assists 🎯 | G/A 🔥 |
+|:------:|:-----------:|:--------:|:----------:|:------:|
+| 2012–2013 | 12 | 18 | 9 | 27 |
+| 2013–2014 | 13 | 15 | 7 | 22 |
+| 2014–2015 | 13 | 15 | 11 | 26 |
+| **TOTAL** | **38** | **48** | **27** | **75** |
+
+### Parada FC (2014)
+
+**Competition:** Summer Futsal Tournament — Viseu, Portugal 🇵🇹
+
+| Season | Appearances | Goals ⚽ | Assists 🎯 | G/A 🔥 |
+|:------:|:-----------:|:--------:|:----------:|:------:|
+| Summer 2014 | 5 | 3 | 2 | 5 |
+| **TOTAL** | **5** | **3** | **2** | **5** |
+
+### Laval Cobras (2018–2019)
+
+**Competition:** QCSL
+
+| Season | Appearances | Goals ⚽ | Assists 🎯 | G/A 🔥 |
+|:------:|:-----------:|:--------:|:----------:|:------:|
+| 2018–2019 | 5 | 3 | 0 | 3 |
+| **TOTAL** | **5** | **3** | **0** | **3** |
+
+### CAREER STATS LSAQ (Ligue de soccer Amateur du Quebec)
+
+| Team | Season | Appearances | Goals ⚽ | Assists 🎯 | G/A 🔥 |
+|:------:|:------:|:-----------:|:--------:|:----------:|:------:|
+| Rush FC | 2026 | 7 | 0 | 0 | 0 |
+| Montrealista FC | 2027 | TBD | TBD | TBD | TBD |
+| **TOTAL** |N/A |**7** | **0** | **0** | **0** |
+
+*⏳ Upcoming season — Statistics will be updated throughout 2027.*
+
+
+
+### 📊 Statistics Information
+
+- **Appearances:** Total matches played.
+- **Goals:** Total goals scored.
+- **Assists:** Total assists provided.
+- **G/A:** Total goal contributions (Goals + Assists).
+- **TBD:** To Be Determined.
+
 
 I also play Dek Hockey as a offensive-defender in **Dek Anjou & Dek Bouch** with my friends every 4 seasons per year. I started since summer 2020 & I did alot of leagues & tournaments every single year.
 
@@ -49,20 +107,6 @@ Here's my achievements in my Dek Hockey career 🏒🏆:
 ## 🌐 Gaming
 
 I also enjoy **video games**, which fuel my creativity and problem-solving mindset.
-
-I play games on my PS5 like : 
-- **GTA**
-- **EA FC**
-- **Madden**
-- **NHL**
-- **NBA 2K**
-- **Dead Island**
-- **Killing Floor**
-- **Marvel games**
-- **The Last Of Us**
-- **Hell Divers**
-- **Call of duty**
-- **Space Marine II**
 
 Connect with me on :
 
