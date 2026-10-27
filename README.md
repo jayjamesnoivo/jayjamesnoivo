@@ -34,6 +34,7 @@ Here's a list of my football career journey ⚽️:
 - **Parada FC** *summer Futsal tournament Viseu,Portugal 2014*.
 - **Laval Cobras** in the **QCSL** *2018 & 2019*.
 - **Rush FC** in the **LSAQ** *2026*.
+- **Montrealista FC** in the **LSAQ** *2027 to today*.
 
 I also play Dek Hockey as a offensive-defender in **Dek Anjou & Dek Bouch** with my friends every 4 seasons per year. I started since summer 2020 & I did alot of leagues & tournaments every single year.
 
