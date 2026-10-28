@@ -109,11 +109,11 @@ Connect with me on :
 
 # 🎬 Other passions
 
-I'm also a huge fan of Marvel <img src="https://img.icons8.com/color/48/marvel.png" width="25"/>. I love watching movies & series & even reading comics. I spend all my day's watchings on Youtube some easter eggs about all the movies & series of **Marvel**. If you want some great **Marvel** updates, rumors, easter egg's, theories, etc go follow up **New Rockstars**. 
+I'm also a huge fan of **Marvel** <img src="https://img.icons8.com/color/48/marvel.png" width="25"/>. I love watching movies & series & even reading comics. I spend all my day's watchings on Youtube some easter eggs about all the movies & series of **Marvel**. If you want some great **Marvel** updates, rumors, easter egg's, theories, etc go follow up **New Rockstars**. 
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 Goals for 2027
 
 - Build a personal full-stack project (Sports Stats Tracker: NFL/NBA/NHL/Football).
 - Publish more projects on my GitHub.
