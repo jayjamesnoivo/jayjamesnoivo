@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:065F46&height=200&section=header&text=Jeremy%20James%20Noivo&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a software development student at the College de Maisonneuve & currently working for the **city of Montreal**. 
+I am a software development student at the College de Maisonneuve & currently working for the **city of Montreal** as a **col bleu**. I'm also **captain & owner** of a football club for **Montrealista FC** in the **LSAQ (Ligue de Soccer Amateur du Québec)**.
 
 Before transitioning into software development, I worked for 7 years (2017–2024) at **Intact Insurance** as an **automobile damage estimator** for 2 years, **customer service agent** for 1 year & **vehicule attendant** for 4 years.  
 This experience strengthened my analytical skills, attention to detail, customer communication, and ability to work under pressure.
@@ -14,9 +14,9 @@ I enjoy learning new tools, collaborating with teams, and improving my developme
 
 ---
 
-## 🏅 Sports passions
+# 🏅 Sports passions
 
-Outside of tech, I’m a huge **sports enthusiast** — especially **football, hockey, basketball, and american football**. Every day, I follow every sports news & games. I follow alot of sports pages, insiders, sports rumors, etc.
+Outside of tech, I’m a huge **sports enthusiast** — especially **football, hockey, basketball, and american football**. Every day, I follow every sports news & games. I follow alot of sports pages, insiders, sports rumors, etc. 
 
 My favorite teams are :
 
@@ -25,24 +25,18 @@ My favorite teams are :
 - <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg" width="20"> **Toronto Raptors** (Basketball)
 - <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Montreal_Canadiens.svg" width="20"> **Montreal Canadiens** (Hockey)
 
----
+I am also a athlete since I was little. I played Football & Hockey for many years. Below is a detailed overview of my performances throughout my football journey, including appearances, goals, assists, and goal contributions for each club. You will also find my Dek Hockey achievements.
 
 ## ⚽ Football Career Statistics
-
-Welcome to my football career statistics!
-
-I'm currently captain & owner for the **Montrealista FC** in the **LSAQ (Ligue de Soccer Amateur du Québec)**.
-
-Below is a detailed overview of my performances throughout my football journey, including appearances, goals, assists, and goal contributions for each club.
 
 ### St-Léonard FC (2009–2011)
 
 | Season | Appearances | Goals ⚽ | Assists 🎯 | G/A 🔥 |
 |:------:|:-----------:|:--------:|:----------:|:------:|
-| 2009 | 9 | 11 | 5 | 16 |
+| 2009 | 12 | 14 | 5 | 19 |
 | 2010 | 8 | 11 | 3 | 14 |
-| 2011 | 9 | 8 | 5 | 13 |
-| **TOTAL** | **26** | **30** | **13** | **43** |
+| 2011 | 10 | 11 | 5 | 16 |
+| **TOTAL** | **30** | **36** | **13** | **49** |
 
 ### Patriotes de l'École Secondaire Pointe-aux-Trembles (2012–2015)
 
@@ -77,23 +71,12 @@ Below is a detailed overview of my performances throughout my football journey, 
 
 | Team | Season | Appearances | Goals ⚽ | Assists 🎯 | G/A 🔥 |
 |:------:|:------:|:-----------:|:--------:|:----------:|:------:|
-| Rush FC | 2026 | 7 | 0 | 0 | 0 |
-| Montrealista FC | 2027 | TBD | TBD | TBD | TBD |
+| **Rush FC** | 2026 | 7 | 0 | 0 | 0 |
+| **Montrealista FC** | 2027 | TBD | TBD | TBD | TBD |
 | **TOTAL** |N/A |**7** | **0** | **0** | **0** |
 
 *⏳ Upcoming season — Statistics will be updated throughout 2027.*
 
-
-
-### 📊 Statistics Information
-
-- **Appearances:** Total matches played.
-- **Goals:** Total goals scored.
-- **Assists:** Total assists provided.
-- **G/A:** Total goal contributions (Goals + Assists).
-- **TBD:** To Be Determined.
-
----
 
 ## 🏒🏆 Dek Hockey achievements
 
@@ -107,7 +90,7 @@ Here's my achievements in my Dek Hockey career:
 
 ---
 
-## 🌐 Gaming
+# 🌐 Gaming
 
 I also enjoy **video games**, which fuel my creativity and problem-solving mindset.
 
@@ -124,13 +107,13 @@ Connect with me on :
 
 ---
 
-## 🎬 Other passions
+# 🎬 Other passions
 
-I'm also a huge fan of <img src="https://img.icons8.com/color/48/marvel.png" width="25"/>. I love watching movies & series & even reading comics. I spend all my day's watchings on Youtube some easter eggs about all the movies & series of **Marvel**. If you want some great **Marvel** updates, rumors, easter egg's, theories, etc go follow up **New Rockstars**. 
+I'm also a huge fan of Marvel <img src="https://img.icons8.com/color/48/marvel.png" width="25"/>. I love watching movies & series & even reading comics. I spend all my day's watchings on Youtube some easter eggs about all the movies & series of **Marvel**. If you want some great **Marvel** updates, rumors, easter egg's, theories, etc go follow up **New Rockstars**. 
 
 ---
 
-## 🎯 Goals for 2026
+# 🎯 Goals for 2026
 
 - Build a personal full-stack project (Sports Stats Tracker: NFL/NBA/NHL/Football).
 - Publish more projects on my GitHub.
